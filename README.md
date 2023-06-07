@@ -1,2 +1,4 @@
 # Churn-rate-at-Robinhood
 To predict the account users' churn rate and retention rate at Robinhood
+
+Churn rate is a measure of the number of individual account holders at Robinhood who move out of a period of time. It is one of the 2 primary factors that determine the state level of customers of a business. A high churn rate could adversely impact the revenue stream of a business. In most cases, it would be of tremendous benefit for business to understand what are the factors customers stay on with the business or leave for competitors. When the growth rate is greater than the churn rate, the company experiences growth and is flourishing. On the other hand, when the business experiences a larger churn rate than its growth rate, it’d be advantageous to the business to understand the reasons why customers leave or are withdrawing money from their accounts. 
